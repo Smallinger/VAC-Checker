@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         VAC-Checker
 // @namespace    github.com/Junxx/VAC-Checker
-// @version      0.1
+// @version      0.2
 // @description  Easily see VAC bans on players you've played with in the past.
 // @author       SmallPox
 // @Credits      MrHayato
@@ -15,7 +15,7 @@
 
 // YOUR API KEY HERE
 // https://steamcommunity.com/dev/apikey
-var apiKey = '12A1D1DE83F9932934EDD6DF2BA00463';
+var apiKey = '1082135D3C52A3B97D97A162D8B1664B';
 
 javascript:(function(){
     // Javascript does not work well with integers greater than 53 bits precision... So we need
