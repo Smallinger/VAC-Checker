@@ -5,7 +5,7 @@ A  tamper-/greasemonkey script to check for steam vac bans
 
 ### How to install: visual instructions
 
-![Instructions](https://raw.githubusercontent.com/Junxx/VAC-Checker/master/instructions.gif)
+![Instructions](https://raw.githubusercontent.com/Junxx/VAC-Checker/master/instructions.webm)
 
 # Changelog
 
