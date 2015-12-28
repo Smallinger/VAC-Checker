@@ -3,7 +3,7 @@ A  Tamper-/Greasemonkey script to check for Steam VAC Bans
 
 # How to use
 
-1. Install [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) for Chrome or [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) for FireFox.
+1. Install [Tampermonkey for Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) or [Greasemonkey for FireFox](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/).
 2. Open view the Raw code for [VAC-Checker.user.js](https://github.com/Junxx/VAC-Checker/raw/master/VAC-Checker.user.js)
 3. install the script in Tempermonkey or Greasemonkey
 4. Navigate to your [friends recently played with](http://steamcommunity.com/my/friends/coplay) page.
