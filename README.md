@@ -9,7 +9,7 @@ A  Tamper-/Greasemonkey script to check for Steam VAC Bans
 4. Navigate to your [friends recently played with](http://steamcommunity.com/my/friends/coplay) page.
 5. the script will use automatic the Steam API to get a list of VAC bans for those users on that page :wink:.
 
-Pro tip: This script also works on your friend's friends list! Just go to their profile page, click "Friends" on the right panel, And see their friend's vac bans! :wink:
+Pro tip: This script also works on your friend's friends list! Just go to their profile page, click "Friends" on the right panel, And see their friend's vac bans!
 
 ### How to install: visual instructions
 
