@@ -8,7 +8,7 @@
 // @github       https://github.com/MrHayato
 // @match        http://steamcommunity.com/*/friends/coplay*
 // @match        https://steamcommunity.com/*/friends/coplay*
-// @updateURL    https://github.com/Junxx/VAC-Checker/VAC-Checker.user.js
+// @updateURL    https://github.com/Junxx/VAC-Checker/blob/master/VAC-Checker.user.js
 // @grant        none
 
 // ==/UserScript==
