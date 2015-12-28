@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         VAC-Checker
 // @namespace    github.com/Junxx/VAC-Checker
-// @version      0.2
+// @version      0.3
 // @description  Easily see VAC bans on players you've played with in the past.
 // @author       SmallPox
 // @Credits      MrHayato
