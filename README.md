@@ -9,13 +9,9 @@ Incomming Later
 
 # Changelog
 
-### v1.0.1 - May 9th 2015
+### v0.0.1 - December 28st 2015
 
-Updated API key
-
-### v1.0.0 - May 1st 2015
-
-Added groups support! To use, visit a group page, click on "View All" under the group members section, and run the bookmarklet to see who in the group has been VAC/OW banned!
+first adding the Script.
 
 # Credits
 
