@@ -9,6 +9,7 @@
 // @match        http://steamcommunity.com/*/friends/coplay*
 // @match        https://steamcommunity.com/*/friends/coplay*
 // @updateURL    https://raw.githubusercontent.com/Junxx/VAC-Checker/master/VAC-Checker.user.js
+// @downloadURL  https://raw.githubusercontent.com/Junxx/VAC-Checker/master/VAC-Checker.user.js
 // @grant        none
 
 // ==/UserScript==
