@@ -6,8 +6,8 @@
 // @author       SmallPox
 // @Credits      MrHayato
 // @github       https://github.com/MrHayato
-// @match        http://steamcommunity.com/*friends*
-// @match        https://steamcommunity.com/*friends*
+// @match        http://steamcommunity.com/*/friends/*
+// @match        https://steamcommunity.com/*/friends/*
 // @updateURL    https://raw.githubusercontent.com/Junxx/VAC-Checker/master/VAC-Checker.user.js
 // @downloadURL  https://raw.githubusercontent.com/Junxx/VAC-Checker/master/VAC-Checker.user.js
 // @grant        none
