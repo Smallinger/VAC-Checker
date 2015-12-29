@@ -15,7 +15,14 @@ Pro tip: This script also works on your friend's friends list! Just go to their 
 
 ![Instructions](https://raw.githubusercontent.com/Junxx/VAC-Checker/master/instructions.gif)
 
+# HTTPS
+
+This script dont work actually on HTTPS
+Open the HTTP site of [the friends list](http://steamcommunity.com/my/friends/coplay)
+
 # Changelog
+
+1.0b1 - first script Released!
 
 # Credits
 
