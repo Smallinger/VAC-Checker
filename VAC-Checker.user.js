@@ -11,7 +11,7 @@
 // @match        http://steamcommunity.com/id/*/friends/*
 // @match        https://steamcommunity.com/id/*/friends/*
 // @match        http://steamcommunity.com/profiles/*/friends/*
-// @match        http://steamcommunity.com/profiles/*/friends/*
+// @match        https://steamcommunity.com/profiles/*/friends/*
 // @updateURL    https://raw.githubusercontent.com/Junxx/VAC-Checker/master/VAC-Checker.user.js
 // @downloadURL  https://raw.githubusercontent.com/Junxx/VAC-Checker/master/VAC-Checker.user.js
 // @grant        none
