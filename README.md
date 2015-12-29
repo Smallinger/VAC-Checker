@@ -5,9 +5,9 @@ A  Tamper-/Greasemonkey script to check for Steam VAC Bans
 
 1. Install [Tampermonkey for Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) or [Greasemonkey for FireFox](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/).
 2. Open view the Raw code for [VAC-Checker.user.js](https://github.com/Junxx/VAC-Checker/raw/master/VAC-Checker.user.js)
-3. install the script in Tempermonkey or Greasemonkey
+3. Install the script in Tempermonkey or Greasemonkey
 4. Navigate to your [friends recently played with](http://steamcommunity.com/my/friends/coplay) page.
-5. the script will use automatic the Steam API to get a list of VAC bans for those users on that page :wink:.
+5. The script will use automatic the Steam API to get a list of VAC bans for those users on that page :wink:.
 
 Pro tip: This script also works on your friend's friends list! Just go to their profile page, click "Friends" on the right panel, And see their friend's vac bans!
 
@@ -21,7 +21,7 @@ Pro tip: This script also works on your friend's friends list! Just go to their 
 - For some strange reason Valve blocks their API when you use HTTPS.
 - You can Google the error that gets displayed in console for more info.
 
-solution is open the HTTP site of [the friends list](http://steamcommunity.com/my/friends/coplay)
+- Solution is open the HTTP site of [the friends list](http://steamcommunity.com/my/friends/coplay)
 
 # Changelog
 
