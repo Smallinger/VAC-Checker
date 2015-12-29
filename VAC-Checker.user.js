@@ -1,17 +1,13 @@
 // ==UserScript==
 // @name         VAC-Checker
 // @namespace    github.com/Junxx/VAC-Checker
-// @version      0.6
+// @version      1.0
 // @description  Easily see VAC bans on players you've played with in the past.
 // @author       SmallPox
 // @Credits      MrHayato
 // @github       https://github.com/MrHayato
-// @match        http://steamcommunity.com/*/friends/coplay*
-// @match        https://steamcommunity.com/*/friends/coplay*
-// @match        http://steamcommunity.com/id/*/friends/*
-// @match        https://steamcommunity.com/id/*/friends/*
-// @match        http://steamcommunity.com/profiles/*/friends/*
-// @match        https://steamcommunity.com/profiles/*/friends/*
+// @match        http://steamcommunity.com/*friends*
+// @match        https://steamcommunity.com/*friends*
 // @updateURL    https://raw.githubusercontent.com/Junxx/VAC-Checker/master/VAC-Checker.user.js
 // @downloadURL  https://raw.githubusercontent.com/Junxx/VAC-Checker/master/VAC-Checker.user.js
 // @grant        none
