@@ -17,8 +17,11 @@ Pro tip: This script also works on your friend's friends list! Just go to their 
 
 # HTTPS
 
-This script dont work actually on HTTPS
-Open the HTTP site of [the friends list](http://steamcommunity.com/my/friends/coplay)
+Valve blocked any traffic from any non-Valve official URLs.
+For some strange reason Valve blocks their API when you use HTTPS.
+You can Google the error that gets displayed in console for more info.
+
+solution is open the HTTP site of [the friends list](http://steamcommunity.com/my/friends/coplay)
 
 # Changelog
 
