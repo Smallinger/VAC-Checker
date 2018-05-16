@@ -24,6 +24,7 @@ Pro tip: This script also works on your friend's friends list! Just go to their 
 
 # Changelog
 
+1.0b2 - added Steam Community Groups!  
 1.0b1 - first script Released!
 
 # Credits
