@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         VAC-Checker
 // @namespace    github.com/Smallinger/VAC-Checker
-// @version      1.0b2
+// @version      1.0b3
 // @description  Easily see VAC bans on players you've played with in the past.
 // @author       SmallPox
 // @Credits      MrHayato
@@ -71,7 +71,8 @@ javascript:(function(){
         return add(steam64identifier, miniProfileId);
     }
 
-    var friends = [].slice.call(document.querySelectorAll('#memberList .member_block, .friendHolder, .friendBlock'));
+    var friends = [].slice.call(document.querySelectorAll('#memberList .member_block, .friendHolder, .friendBlock, .friend_block_v2'));
+    var newDesign = document.body.classList.contains('v6')
     var lookup = {};
 
     friends.forEach(function(friend) {
@@ -84,9 +85,12 @@ javascript:(function(){
 
     function setVacation(player) {
         var friendElements = lookup[player.SteamId];
-
         friendElements.forEach(function(friend) {
-            var inGameText = friend.querySelector('.linkFriend_in-game');
+            if (newDesign){
+                var inGameText = friend.querySelector('.friend_block_content');
+            }else{
+                var inGameText = friend.querySelector('.linkFriend_in-game');
+            }
             var span = document.createElement('span');
             span.style.fontWeight = 'bold';
             span.style.display = 'block';
@@ -114,8 +118,11 @@ javascript:(function(){
                 span.style.color = 'rgb(43, 203, 64)';
                 span.innerHTML = 'No Bans for this player.';
             }
-
-            friend.querySelector('.friendSmallText').appendChild(span);
+            if (newDesign){
+                friend.querySelector('.friend_small_text').appendChild(span);
+            }else{
+                friend.querySelector('.friendSmallText').appendChild(span);
+            }
         });
     }
 
